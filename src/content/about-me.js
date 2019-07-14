@@ -15,7 +15,7 @@ export default [
   },
   {
     input: 'Rohan.interests',
-    return: '["Photography", "basketball", "cooking", "starcraft"]',
+    return: '["Photography", "Socializing", "Poetry Writing", "cooking"]',
   },
   {
     input: 'Rohan.education',
@@ -23,6 +23,6 @@ export default [
   },
   {
     input: 'Rohan.skills',
-    return: '["Python", "Java", "DBMS"]',
+    return: '["Python", "Java", "Database management system", "HTML & CSS"]',
   },
 ];
