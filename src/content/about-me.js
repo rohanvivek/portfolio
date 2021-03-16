@@ -23,6 +23,6 @@ export default [
   },
   {
     input: 'Rohan.skills',
-    return: '["Python", "Java", "Database management system", "HTML & CSS"]',
+    return: '["AWS", "Python", "Java", "Database management system", "HTML & CSS"]',
   },
 ];
