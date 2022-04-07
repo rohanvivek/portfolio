@@ -31,15 +31,6 @@ class ContactLinks extends React.PureComponent {
             github
           </a>
         </span>
-        <span>
-          <a
-            rel="noopener"
-            target="_blank"
-            href="https://www.facebook.com/singh.rohanvivek"
-          >
-            facebook
-          </a>
-        </span>
       </div>
     );
   }
